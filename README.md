@@ -4,6 +4,7 @@
 
 
 #### 설치 과정
+
   ubuntu
   
   sudo passwd
