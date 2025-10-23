@@ -1,5 +1,5 @@
 # **코리아 IT 아카데미 국비과정** 
-## Git 😺
+## Cloud 😺
 <a name="readme-top"></a> 
 
 
